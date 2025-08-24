@@ -72,7 +72,7 @@
 
 ## ⚠️ Lưu ý
 
-- Mỗi title tối đa 512 token phần nội dung không hạn chế text.  
+- Mỗi title tối đa 512 token phần nội dung không hạn chế.  
 - INT8 ONNX giảm nhẹ similarity (~0.02–0.03) so với FP32, nhưng top1/topK vẫn chính xác.  
 - Batch encode được hỗ trợ → tăng tốc khi xử lý lượng lớn dữ liệu.
 
@@ -82,4 +82,4 @@
 
 - Tác giả: Thoang  
 - Email: [nhothoang@gmail]  
-- GitHub: [[link-repo](https://github.com/NhoThoang/Realease-Memory-AI)]  
+- GitHub: [(https://github.com/NhoThoang/Realease-Memory-AI)]  
